@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `cm__clickatell_config`
